@@ -1,6 +1,9 @@
 ## Hi there 👋
-My name is Davi and I'm a young developer from Brazil.
+🌐 My name is Davi and I'm a young student from Brazil, I'm currently studying at **Colégio Militar de Juiz de Fora** (CMJF).
 
+💙 I'm curious about robothics, mathematics and coding (specially C/C++).
+
+🏅 I'm a medalist at **OBMEP** (bronze) and **OBR** (gold), and a lot of other olympiads.
 <!--
 **spino-gmd/spino-gmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
