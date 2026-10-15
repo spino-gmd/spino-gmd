@@ -1,7 +1,7 @@
 ## Hi there 👋
 🌐 My name is Davi and I'm a young student from Brazil, I'm currently studying at **Colégio Militar de Juiz de Fora** (CMJF).
 
-💙 I'm curious about robothics, mathematics and coding (specially C/C++).
+💙 I'm curious about robothics, mathematics and coding (specially using C/C++).
 
 🏅 I'm a medalist at **OBMEP** (bronze) and **OBR** (gold), and a lot of other olympiads.
 <!--
